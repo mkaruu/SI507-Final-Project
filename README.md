@@ -27,5 +27,5 @@ I present graphs and maps with the data
         		
 7. exits the program <exit>
      
-8. lists available commands (these instructions)''') <help>
+8. list available commands (these instructions)''') <help>
      
